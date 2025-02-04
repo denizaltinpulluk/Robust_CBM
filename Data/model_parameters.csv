@@ -1,0 +1,13 @@
+Number_of_assets,10
+Number_of_weeks,26
+Number_of_cycles,3
+Robust_MIPGAP,0.005
+Simulation_MIPGAP,0.005
+Simulation_time_limit,1800
+BigM_for_degradation,105
+BigM_for_production,421
+Preventive_maintenance_cost,1000
+Corrective_maintenance_cost,4000
+Corrective_maintenance_duration,5
+Maintenance_capacity,5
+Average_lifetime,52

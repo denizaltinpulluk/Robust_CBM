@@ -1,0 +1,6 @@
+Inherent_mean,1.5
+Inherent_variation,0.5
+Load_contribution_mean,1
+Load_contribution_variation,0.25
+C2C_contribution_mean,0.01
+C2C_contribution_variation,0.0025
