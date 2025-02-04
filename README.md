@@ -31,9 +31,9 @@ After obtaining the results:
 ├── Driver.py              # Main script for running experiments
 ├── Experiments.py         # Script for analyzing and plotting results
 ├── Assets.py              # Defines asset properties and behavior
-├── Optimization.py        # Implements optimization routines
+├── Optimization.py        # Implements optimization
 ├── Scenarios.py           # Generates and manages scenarios
-├── Uncertainty_set.py     # Handles uncertainty modeling
+├── Uncertainty_set.py     # Handles uncertainty set 
 ├── Models.py              # Defines mathematical models for optimization
 └── README.md              # Project documentation
 ```
